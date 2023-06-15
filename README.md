@@ -1,2 +1,2 @@
 # new digital messenger
-Simple and fast messaging app. 
+Simple and fast messaging app
